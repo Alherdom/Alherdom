@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently studying first year of web development at IES Puerto De la Cruz, here I will leave my first steps as a novice in this exciting branch of computer science.
+
+
 <!--
 **Alherdom/Alherdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
