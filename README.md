@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋</h1>
 <h3 align="left">I am currently studying first year of web application development at IES Puerto De la Cruz, here I will leave my first steps as a novice in this exciting branch of computer science.</h3>
 
-🌱 I’m currently learning **Python, Java...**
+I’m learning **Python, Java...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
