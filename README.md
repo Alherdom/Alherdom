@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋</h1>
 <h3 align="left"><!--I am currently studying first year of web application development at IES Puerto De la Cruz, here I will leave my first steps as a novice in this exciting branch of computer science. I’m learning **Python...** --></h3>
 
-
+<h2 align="justify">Is my first time using GitHub, I hope to learn many things here and feel like a real developer.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
