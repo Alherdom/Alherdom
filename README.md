@@ -1,8 +1,7 @@
 <h1 align="center"></h1>
-<h3 align="left"><!--I am currently studying first year of web application development at IES Puerto De la Cruz, here I will leave my first steps as a novice in this exciting branch of computer science. I’m learning **Python...** --></h3>
 
-<h2 align="justify"> This is my first time in GitHub I hope to learn many things and feel like a real developer.</h2>
-
+<h2 align="justify"> 👋 Hi there, I’m Alejandro Hdez </h2>
+<p>I am a first year DAW student where I learn in projects with python, html, xml, css, sqlite.... I consider myself passionate about technology and I learn every day.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro hernández" height="30" width="40" /></a>
