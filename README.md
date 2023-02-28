@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Alejandro Hdez
+## 👋 Hi there, I’m Alejandro
 I am a first year DAW student where I learn in projects with python, html, xml, css, sqlite.... I consider myself passionate about technology and I learn every day.
  ## Connect with me:
 
