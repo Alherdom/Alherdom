@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A future software developer </h3>
 
-- 🚀 I am currently studying **DAW** at IES Puerto de la Cruz
+- 🚀 I am a **DAW** student at IES Puerto de la Cruz
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I am currently learning **Python**
 
 - 💬 Ask me anything you want **I'm friendly**
 
