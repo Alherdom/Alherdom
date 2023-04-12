@@ -10,8 +10,8 @@
 - 📫 How to reach me **alherdom@outlook.com**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&include_all_commits=true&count_private=true&theme=default&layout=compact" alt="GitHub Stats for alherdom" width="395">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alherdom&theme=default" width="415">
+<img src="https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&include_all_commits=true&count_private=true&theme=default&layout=compact" alt="GitHub Stats for alherdom" width="380">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alherdom&theme=default" width="400">
 </div>
 
 <div align="center">
