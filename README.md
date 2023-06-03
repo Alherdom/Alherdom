@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-- 🚀 I am a **Web Applications Development** student
+- 🚀 I am a **web applications development** student
 
 - 🌱 I am currently learning **Python**
 
