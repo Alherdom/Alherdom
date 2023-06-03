@@ -4,6 +4,8 @@
 
 </p>
 
+<div align="justify">
+
 - 🚀 I am a **Web Applications Development** student
 
 - 🌱 I am currently learning **Python**
@@ -11,13 +13,17 @@
 - 💬 Ask me anything you want **I'm friendly**
 
 - 📫 How to reach me **alherdom@outlook.com**
-
-<div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alherdom&theme=react&line_height=40&hide=css" width="250"/>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=alherdom&theme=default" width="450">
+                                  
 </div>
 
 <div align="center">
-<br>
-<img src="https://komarev.com/ghpvc/?username=alherdom&label=Profile%20views&color=0e75b6&style=flat" alt="alherdom"/>
+  
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&theme=transparent)
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alherdom&theme=default">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alherdom&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=alherdom&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alherdom"/>
+
 </div>
