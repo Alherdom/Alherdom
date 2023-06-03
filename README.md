@@ -18,7 +18,7 @@
 
 <div align="center">
   
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&theme=transparent&card_width=400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&theme=transparent&card_width=400)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alherdom&theme=transparent&card_width=400)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alherdom&layout=donut&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
