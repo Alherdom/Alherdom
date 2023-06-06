@@ -4,7 +4,7 @@
 
 </p>
 
-<div align="justify">
+<div>
 
 - 🚀 I am a **web applications development** student
 
