@@ -4,7 +4,7 @@
 
 </p>
 
-<div>
+<div >
 
 - 🚀 I am a **web applications development** student
 
@@ -18,9 +18,8 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&theme=transparent&card_width=400)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alherdom&theme=transparent&layout=donut&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alherdom&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=alherdom&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alherdom"/>
 
