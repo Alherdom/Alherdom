@@ -8,7 +8,7 @@
 
 - 🚀 I am a **web applications development** student
 
-- 🌱 I am currently learning **Python, Django, JavaScript, Bootstrap, Sass...**
+- 🌱 I am currently learning **Python, Django, JavaScript, React, Bootstrap, Sass...**
 
 - 💬 Ask me anything you want **I'm friendly**
 
