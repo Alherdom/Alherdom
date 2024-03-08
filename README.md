@@ -6,19 +6,15 @@
 
 <div >
 
-- 🚀 I am a **web applications development** student
+- 🚀 I am **Web Applications Development** student
+- 🌱 Currently learning **Python, Django, JavaScript, React, Bootstrap, Sass...**.
+- 💬 Ask me anything you want **I am friendly** contact me by alherdom@outlook.com
 
-- 🌱 I am currently learning **Python, Django, JavaScript, React, Bootstrap, Sass...**
-
-- 💬 Ask me anything you want **I'm friendly**
-
-- 📫 How to reach me **alherdom@outlook.com**
-                                  
 </div>
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&theme=transparent)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alherdom&show_icons=true&theme=transparent) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alherdom&theme=transparent&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=alherdom&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alherdom"/>
