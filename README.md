@@ -3,7 +3,7 @@
 </h4>
 
 <h4 align="left">
-I am Web Application Development student, currently learning fullstack technologies. Ask me anything you want at alherdom@outlook.com.  
+I am Web Application Development student, currently learning fullstack technologies. Ask me anything at alherdom@outlook.com
 </h4>
 
 
