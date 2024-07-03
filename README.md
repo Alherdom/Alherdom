@@ -5,12 +5,21 @@
 </h4>
 
 <h4>
-Junior Developer, currently learning full stack technologies, do not hesitate to contact me if you see something interesting.
+Junior Software Developer, currently learning full stack technologies. Feel free to explore and contact me.
 </h4>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alherdom&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+</br>
+
 <div align="center">
-<img width="11%" src="https://komarev.com/ghpvc/?username=alherdom&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alherdom"/>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alherdom&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+</div>
+
+
+<div align="center">
+    
+<img width="15%" src="https://komarev.com/ghpvc/?username=alherdom&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="alherdom"/>
+
 </div>
